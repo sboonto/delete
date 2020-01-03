@@ -1,1 +1,6 @@
-theme: jekyll-theme-minimal
+title: My Blogs
+email: sudchai.boo@kmutt.ac.th
+theme: minima
+plugins:
+  - jekyll-feed
+  
