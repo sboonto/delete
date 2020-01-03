@@ -1,6 +1,6 @@
 title: My Blogs
 email: sudchai.boo(at)kmutt.ac.th
-theme: flex
+theme: jekyll-theme-flex
 plugins:
   - jekyll-feed
   
